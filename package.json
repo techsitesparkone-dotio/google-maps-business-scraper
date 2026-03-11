@@ -1,0 +1,19 @@
+{
+  "name": "g-map",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scraper.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "fs-extra": "^11.3.4",
+    "json2csv": "^6.0.0-alpha.2",
+    "puppeteer": "^24.39.0"
+  }
+}
